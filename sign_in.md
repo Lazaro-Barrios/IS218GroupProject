@@ -1,7 +1,7 @@
 | Date       | Day       | Partner 1 Sign-in | Partner 2 Sign-in |
 |------------|-----------|-----------|-----------|
 | 11/7/23    | Tuesday   | James Clinton         | Lazaro Barrios          |
-| 11/9/23    | Thursday  | James Clinton         |           | 
+| 11/9/23    | Thursday  | James Clinton         | Lazaro Barrios          | 
 | 11/14/23   | Tuesday   |           |           |
 | 11/16/23   | Thursday  |           |           |
 | 11/21/23   | Tuesday   |           |           |
