@@ -2,7 +2,7 @@
 |------------|-----------|-----------|-----------|
 | 11/7/23    | Tuesday   | James Clinton         | Lazaro Barrios          |
 | 11/9/23    | Thursday  | James Clinton         | Lazaro Barrios          | 
-| 11/14/23   | Tuesday   |           |           |
+| 11/14/23   | Tuesday   |           | Lazaro Barrios           |
 | 11/16/23   | Thursday  |           |           |
 | 11/21/23   | Tuesday   |           |           |
 | 11/23/23   | Thursday  |           |           |
