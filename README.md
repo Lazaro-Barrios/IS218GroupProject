@@ -8,5 +8,5 @@
 
 [Link to Persona](Business%20Analysis/Persona.pdf) <br>
 
-[Link to User Stories](Business%20Analysis/User%20Stories.md) <br>
+[Link to User Stories](Business%20Analysis/User%20Stories.pdf) <br>
 
