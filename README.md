@@ -1,5 +1,7 @@
 [Link to Sign In File](sign_in.md)
 
+# Business Analysis
+
 [Link to Competitive Analysis](Business%20Analysis/Competitive%20Analysis.pdf) <br>
 
 [Link to SWOT Analysis](Business%20Analysis/SWOT%20Analysis.pdf) <br>
@@ -9,4 +11,12 @@
 [Link to Persona](Business%20Analysis/Persona.pdf) <br>
 
 [Link to User Stories](Business%20Analysis/User%20Stories.pdf) <br>
+
+# Detailed User Stories
+
+# Figma Designs
+
+[Link to Home Design 1](Business%20Analysis/Persona.pdf) <br>
+
+[Link to Home Design 2](Business%20Analysis/User%20Stories.pdf) <br>
 
