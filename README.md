@@ -14,9 +14,11 @@
 
 # Detailed User Stories
 
+[Link to Detailed User Stories](Business%20Analysis/User%20Stories%20Continued.pdf) <br>
+
 # Figma Designs
 
-[Link to Home Design 1](Business%20Analysis/Persona.pdf) <br>
+[Link to Home Design 1](Figma%20Designs/HomePage1.png) <br>
 
-[Link to Home Design 2](Business%20Analysis/User%20Stories.pdf) <br>
+[Link to Home Design 2](Figma%20Designs/HomePage2.png) <br>
 
