@@ -24,7 +24,13 @@
 
 # Figma Designs
 
-[Link to Home Design 1](Figma%20Designs/HomePage1.png) <br>
+[Link to Home Page](Figma%20Designs/HomePageFinal.png) <br>
 
-[Link to Home Design 2](Figma%20Designs/HomePage2.png) <br>
+[Link to Menu Page](Figma%20Designs/MenuPage.png) <br>
+
+[Link to About Page](Figma%20Designs/AboutPage.png) <br>
+
+[Link to Original Home Design 1](Figma%20Designs/HomePage1.png) <br>
+
+[Link to Original Home Design 2](Figma%20Designs/HomePage2.png) <br>
 
