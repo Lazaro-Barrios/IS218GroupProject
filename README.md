@@ -20,7 +20,7 @@
 
 # Detailed User Stories
 
-[Link to Detailed User Stories](Business%20Analysis/User%20Stories%20Continued.pdf) <br>
+[Link to Detailed User Stories](Business%20Analysis/User%20Stories%20Cont.pdf) <br>
 
 # Figma Designs
 
